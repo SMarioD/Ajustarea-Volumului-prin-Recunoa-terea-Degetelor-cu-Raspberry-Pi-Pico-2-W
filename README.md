@@ -1,0 +1,1 @@
+# Ajustarea-Volumului-prin-Recunoa-terea-Degetelor-cu-Raspberry-Pi-Pico-2-W
